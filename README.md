@@ -31,9 +31,9 @@ To write a program to implement Stochastic Gradient Descent (SGD) Regressor for 
 
 Program to implement SGD Regressor for linear regression.
 
-Developed by: BALAMURUGAN S
+Developed by: Bhavankumar.P
 
-RegisterNumber:  212225240020
+RegisterNumber:  212225240026
 
 ```py
 import pandas as pd
@@ -88,8 +88,11 @@ plt.show()
 
 ## Output:
 <img width="1393" height="625" alt="image" src="https://github.com/user-attachments/assets/a6dbf5fc-e049-4f1c-98d0-4723fd402887" />
+
 <img width="1387" height="729" alt="image" src="https://github.com/user-attachments/assets/4aea6551-dc48-4c65-ae78-b42cf6436b9f" />
-<img width="1377" height="344" alt="image" src="https://github.com/user-attachments/assets/7965ba5d-40ab-4c3c-926f-70e7f1d26dc0" />
+
+<img width="884" height="184" alt="Screenshot 2026-03-18 153447" src="https://github.com/user-attachments/assets/9cca4c58-1f08-4497-bada-371d7eca9546" />
+
 <img width="1382" height="585" alt="image" src="https://github.com/user-attachments/assets/ab5bb403-dde7-4cba-9f0d-b5cff353bd05" />
 
 ## Result:
